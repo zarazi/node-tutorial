@@ -13,3 +13,7 @@ results
 
 node_modules
 npm-debug.log
+
+server.js.logs
+server.js.debug
+settings.json
